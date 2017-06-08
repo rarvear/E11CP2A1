@@ -2,7 +2,7 @@
 
 - Para poder realizar este actividad debes haber realizado los cursos previos junto con los videos online correspondientes a la experiencia 11.
 
-## Ejercicio 2: Segundo Proyecto.
+## Ejercicio 1: Segundo Proyecto.
 
 - Crear un proyecto llamado ***second_app***.
 - Inicializar *Git*.
