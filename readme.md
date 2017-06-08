@@ -17,7 +17,7 @@
 - Comprobar que los registros se crearon correctamente.
 - Agregar el *CDN* de una plantilla de *[Bootswatch](https://www.bootstrapcdn.com/bootswatch/)*.
 - Agregar las clases de botones de *Bootswatch* a los *links* de *Show*, *Edit* y *Destroy*.
-![Students](ss-students.png "Layout Landing")
+![ss-students](https://user-images.githubusercontent.com/18556541/26950351-5558f76e-4c6b-11e7-9572-34eb398209a6.png)
 - Tercer commit.
 - Agregar un campo nuevo al modelo *Student* llamado *email* de tipo *string*.
 - Revisar y correr la migración.
